@@ -1,0 +1,130 @@
+a:link,a:visited{color:#0000ff;text-decoration:none;}
+a:hover{color:#990000;text-decoration:underline;}
+
+html,body{
+	color: #eee;
+	background-color: #eee;
+	height: 100%;
+	margin: 0;
+}
+
+.main{
+			background-image:url(../images/06.jpg);
+			width:100%;
+			height: 400px;
+		}
+
+.home{
+	text-decoration: none;
+	font-size: 25px;
+	font-weight: bold;
+	color: #444;
+	padding-left: 10px;
+}
+
+.menu{
+	font-size: 20px;
+	font-weight: bold;
+    text-align: left ;
+	background-color: #fff;
+	padding: 10px;
+}
+
+.qw{
+	text-align : center; 
+	margin : 0px aotu;
+}
+
+.button{
+	font-size: 20px;
+	color: #444;
+	background-color: #fff;
+	width: 100px;
+	height: 30px;
+}
+
+.form{
+	margin :0px auto;
+	border :0px;
+	padding: 50px;
+}
+.form-left{
+	float:left;
+	padding: 3px;
+}
+.list-ul{
+	list-style-type: none;
+	font-size: 20px;
+}
+
+.list-li{
+	padding-left: 30px;
+	background-repeat: no-repeat;
+	background-position: center left;
+	background-size: 25px 25px;
+}
+
+.list-a{
+	color: #fff;
+}
+
+.table{
+	background-image:url(images/002.jpg);
+	width: 95%;
+	margin: 0px auto;
+}
+
+.table-a{
+	background-color: #222;
+	width: 20%;
+	padding: 10px;
+}
+.table-b{
+	background-color: #222;
+	width: 64%;
+	padding: 10px;
+}
+.table-c{
+	background-color: #222;
+	width: 11%;
+	padding: 10px;
+	text-align: center;
+}
+.table-d{
+	background-color: #222;
+	height: 100px;
+	padding: 10px;
+}
+.table-e{
+	background-color: #808080;
+	width: 20%;
+	padding: 10px;
+}
+.table-f{
+	background-color: #808080;
+	height: 50px;
+	padding: 10px;
+}
+
+.information{
+	font-weight: bold;
+	font-size: 30px;
+	padding: 30px;
+}
+
+.information-title{
+	font-weight: bold;
+	font-size: 30px;
+	color: #222;
+}
+
+.error{
+	color: #ADFF2F;
+}
+
+.bottom{
+	text-align:right;
+		wwidth:100%;
+		height:100px;
+		background-color:#ff9966;
+}
